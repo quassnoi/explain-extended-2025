@@ -1,0 +1,7 @@
+misc
+.cache
+.env
+.venv
+.vscode
+Dockerfile
+.gitignore

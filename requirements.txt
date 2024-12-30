@@ -1,0 +1,7 @@
+--index-url https://download.pytorch.org/whl/cpu
+--extra-index-url https://pypi.org/simple
+psycopg-binary
+torch
+numpy
+fire
+safetensors

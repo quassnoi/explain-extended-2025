@@ -1,0 +1,14 @@
+services:
+  db:
+    build: .
+    environment:
+      POSTGRES_USER: explainextended2025
+      POSTGRES_PASSWORD: MySecretPassword 
+      POSTGRES_DB: explainextended2025
+    volumes:
+      - db-data:/var/lib/postgresql/data
+    ports:
+      - "5432:5432"
+
+volumes:
+  db-data:
