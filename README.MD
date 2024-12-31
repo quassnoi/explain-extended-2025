@@ -1,10 +1,10 @@
-## Explain Extended New Year 2025: GPT in 500 lines of SQL
+## Explain Extended New Year 2025: Diffusion Model image generator in about 700 lines of pure SQL
 
-https://explainextended.com/2023/12/31/happy-new-year-15/
+https://explainextended.com/2024/12/31/happy-new-year-16/
 
 ### About
 
-This repository contains the code for the article [Explain Extended New Year 2025: Happy New Year: Diffusion Model image generator in about 700 lines of pure SQL](https://explainextended.com/2024/12/31/happy-new-year-16/).
+This repository contains the code for the article [Happy New Year: Diffusion Model image generator in about 700 lines of pure SQL](https://explainextended.com/2024/12/31/happy-new-year-16/).
 
 The SQL code described in the article runs on PostgreSQL 17.2.
 
